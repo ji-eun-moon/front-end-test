@@ -21,7 +21,7 @@
 ## 링크
 | 블로그 | 노션 |
 | --- | --- | 
-|프론트엔드 테스트| [프론트엔드 테스트](https://www.notion.so/c049989764d54ae3b5cde498a67151b4?pvs=4){:target="_blank"} |
+|프론트엔드 테스트| <a href="https://www.notion.so/c049989764d54ae3b5cde498a67151b4?pvs=4" target="_blank">프론트엔드 테스트</a>|
 
 ## 강의 수료증
 | 테스트 기초: 단위・통합 테스트 | 테스트 심화: 시각적 회귀・E2E 테스트 |
